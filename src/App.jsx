@@ -8,7 +8,10 @@ const App = () => {
   return (
     <main className="min-h-screen bg-[#FAE8FF] flex items-center justify-center">
       <section className="bg-white w-[90vw] max-w-[750px] my-25 p-10 rounded-md ">
-        <h3 className=" text-4xl mb-5 tracking-wide leading-tight">
+        <h3
+          className=" text-3xl
+ mb-5 tracking-wide leading-tight "
+        >
           {people.length} birthdays today
         </h3>
 

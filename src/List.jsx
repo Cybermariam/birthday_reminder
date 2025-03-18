@@ -14,7 +14,7 @@ const List = ({ people }) => {
               alt={name}
             />
             <div className="ps-5">
-              <h4 className="text-3xl font-medium tracking-wide leading-tight">
+              <h4 className="text-2xl font-medium tracking-wide leading-tight">
                 {name}
               </h4>
               <p className="text-gray-400  text-xl">{age} years</p>
