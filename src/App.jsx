@@ -7,7 +7,7 @@ const App = () => {
 
   return (
     <main className="min-h-screen bg-[#FAE8FF] flex items-center justify-center">
-      <section className="bg-white w-[40%] mx-auto p-10 rounded-md ">
+      <section className="bg-white w-[60%] mx-auto p-10 rounded-md ">
         <h3
           className=" text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl
  mb-5 tracking-wide leading-tight "
