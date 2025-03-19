@@ -13,8 +13,8 @@ const List = ({ people }) => {
               src={image}
               alt={name}
             />
-            <div className="ps-5">
-              <h4 className="text-2xl font-medium tracking-wide leading-tight">
+            <div className="ps-5 ">
+              <h4 className="text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl font-medium tracking-wide leading-tight">
                 {name}
               </h4>
               <p className="text-gray-400  text-xl">{age} years</p>
